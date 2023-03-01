@@ -1,10 +1,13 @@
 <h1 align="center">Heyaaa 👋, I'm Manasvvi</h1>
-<h3 align="center">What's up? What brings you here? 🤔</h3>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=manasvvi1&label=Profile%20views&color=0e75b6&style=flat" alt="manasvvi1" /> </p> -->
+<!-- <h3 align="center">Nothing muchh!! Just a lil curious to know what brings you here?🤔😉</h3>
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manasvvi1&label=Profile%20views&color=0e75b6&style=flat" alt="manasvvi1" /> </p> -->
 
 <p align="center"> <a href="https://twitter.com/manasvvi" target="blank"><img src="https://img.shields.io/twitter/follow/manasvvi?logo=twitter&style=for-the-badge" alt="manasvvi" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/manasvvi-aggarwal/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manasvvi" /></a></p>
+<br>
 
 - 🔭 I’m currently working on... **a lot of stuff!!**
 
